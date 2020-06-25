@@ -1,0 +1,22 @@
+.container{
+
+}
+    .number-form {
+border: 1px solid aqua;
+    padding: 15px 15px;
+    }
+    .header {
+padding: 15px 15px;
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    }
+    .example-table {
+width: 80%;
+    margin: 0 5% !important;
+    }
+    .filter{
+    }
+   .file-upload {
+  float: right;
+}
